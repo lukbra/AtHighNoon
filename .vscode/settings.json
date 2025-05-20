@@ -1,0 +1,28 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"files.associations": {
+		"stdio.h": "c",
+		"*.m": "cpp",
+		"*.tcc": "cpp",
+		"optional": "cpp",
+		"functional": "cpp",
+		"random": "cpp",
+		"ostream": "cpp",
+		"streambuf": "cpp",
+		"system_error": "cpp",
+		"player.h": "c",
+		"raylib.h": "c",
+		"game.h": "c",
+		"text_encoding": "c",
+		"typeinfo": "c"
+	},
+	"makefile.configureOnOpen": false
+}
